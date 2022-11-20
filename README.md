@@ -3,7 +3,7 @@ This template is a landing page to show ZDOnline company.
 
 ## Demo
 
-Check out the live website: ...
+Check out the live website: https://slmanzinedine.github.io/zdonline-template/
 
 ## Technologies
 
